@@ -1,20 +1,39 @@
-# Ronald Jimena's Portfolio
+# 👋 Hi, I’m Ron — Web Developer & Builder of Digital Things
 
-## About Me
-I am a Salesforce professional with over 5 years of experience, focusing on configuration using drag-and-drop tools within Salesforce. My background includes extensive work with Sales and Service Cloud, where I’ve helped organizations optimize their processes and enhance customer interactions.
+I'm a web developer focused on building clean, modern websites and full-stack apps for startups, small businesses, and solo founders. I love turning ideas into fast, responsive, and user-friendly experiences.
 
-I hold 6 Salesforce certifications and am currently expanding my skill set by learning Apex development to create custom solutions. My goal is to become a technical architect and eventually establish my own consultancy firm to provide exceptional Salesforce services.
+### 💼 What I Do
 
-I thrive in collaborative environments and am passionate about innovating solutions that drive business success.
+- 🧱 Frontend Development (React, Vite, Tailwind, ShadCN UI)
+- 🌐 Full-Stack Apps with Supabase or Firebase
+- 📱 Responsive Design for Mobile & Desktop
+- ⚡ Landing Pages that Convert
+- 🧪 MVPs and Product Prototypes
 
-## Skills
-- Apex Programming
-- Salesforce Configuration
-- Salesforce Sales & Service Cloud
+### 🛠 Tech Stack
 
-## Projects
-- **Recruitment App**: A Salesforce application for managing job postings and applications using only Apex to showcase Apex programming skills. (Link to repository coming soon)
+**Languages**: JavaScript, TypeScript, HTML, CSS  
+**Frameworks**: React, Next.js, Vite  
+**Styling**: Tailwind CSS, ShadCN, Framer Motion  
+**Backends**: Supabase, Firebase  
+**Deployments**: Vercel, Netlify
 
-## Contact
-- Email: ronald.jimena0420@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ronald-j-813242196
+### 🧠 How I Work
+
+I keep things simple:
+- Clear communication
+- Fast iterations
+- Clean, maintainable code
+- No fluff — just results
+
+### 📬 Let’s Work Together
+
+If you need a website, dashboard, or MVP built —  
+I’m currently open for freelance and collaboration work.
+
+**Contact me:** ronald.jimena0420@gmail.com
+
+---
+
+📍 Based in PH — working remotely with clients worldwide 🌍  
+🔄 Fast turnarounds, fair pricing, solid execution.
